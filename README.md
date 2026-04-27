@@ -16,12 +16,11 @@ Diplomado en Administración Pública
 Titulado, pasante o inconcluso: Concluido 
 Institución educativa: Instituto de Administración Pública 
 
-
-Actualmente estudiando:
 Diplomado en Python
 Institución: CETEC Xalapa
 Diseño de aplicaciones en formularios WEB (TKinter) con base en Python
 
+Actualmente estudiando:
 Diplomado FULL Stack con Python (Backend) y Framework Django (Frontend)
 Institución: Universidad ANAHUAC Campus Mayab
 Diseño de aplicaciones en línea FULL Stack (backend y frontend) basadas en Python y Django. Incluyendo HTML 5, CSS 3 y bootstarp
