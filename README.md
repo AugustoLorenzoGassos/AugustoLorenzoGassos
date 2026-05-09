@@ -28,7 +28,6 @@ Diseño de aplicaciones en línea FULL Stack (backend y frontend) basadas en Pyt
 Diplomado en análisis de datos con base en Python
 Institución: CETEC – Xalapa
 Manipulación de datos, Web scraping, Machine learning
-(Inicia 17 de marzo)
 
 OBJETIVOS 
  
@@ -41,7 +40,17 @@ PERFIL PROFESIONAL
 •	Habilidad en el análisis y diseño de procesos. 
 •	Diseño y construcción de bases de datos 
  
- 	 
+HERRAMIENTAS LABORALES 
+
+•	Html 5, CCS3 
+•	Javascript 
+•	Jquery, Json, Ajax 
+•	C# 
+•	Sql server 
+•	Qlick Scence 
+•	Python: Librerías (Estándar, random, datetime, os, Tkinter), Tipos de datos (Lista, tuplas, diccionarios, conjuntos)
+•	Programación orientada a objetos (Clases, herencia, herencia múltiple, decoradores, poliformismo, encapsulamiento).
+   
 HABILIDADES ADQUIRIDAS 
  
 Durante mi trayectoria laboral, especialmente durante los últimos 13 años, he tenido la oportunidad de dirigir grupos de trabajo y liderear la construcción e implementación de sistemas de información. 
